@@ -1,0 +1,11 @@
+pandas: For data manipulation and analysis.
+yfinance: To fetch stock data.
+ipywidgets: For interactive widgets in Jupyter notebooks.
+ta: For technical analysis indicators.
+matplotlib: For plotting and visualization.
+pystan: Required dependency for Prophet.
+prophet: For time series forecasting.
+scikit-learn: For machine learning models like SVR and Random Forest Regressor.
+xgboost: For the XGBoost model.
+tensorflow: For building and running the CNN model.
+statsmodels: For ARIMA model implementation.
